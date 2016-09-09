@@ -1,0 +1,36 @@
+{
+  "name": "react-testing",
+  "version": "1.0.0",
+  "description": "A simple app to learn react test utilities.",
+  "main": "public/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/react-testing.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "test",
+    "utilities",
+    "html",
+    "css"
+  ],
+  "author": "adrian jay lopez <adrianjaylopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/react-testing/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/react-testing#readme",
+  "devDependencies": {
+    "babel-register": "^6.14.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "react-addons-test-utils": "^15.3.1"
+  },
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}
